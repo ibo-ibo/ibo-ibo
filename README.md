@@ -1,6 +1,6 @@
-- 👋 Hi, i am ibrahim.
+- 👋 Hi, I'm Ibrahim.
 - 👀 I’m mostly interested in web development.
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any kind of projects.
 - 💻 My Codewars Profile https://www.codewars.com/users/ibo0
 
